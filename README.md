@@ -1,2 +1,2 @@
-# DataMining - Hierarchical Agglomerative Clustering (HAC)
+# DataMining-HierarchicalAgglomerativeClustering (HAC)
 This is a Agglomerative clustering, which uses a single link for a dataset including individuals research areas...
